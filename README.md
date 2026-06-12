@@ -1,13 +1,33 @@
 # FortiGate Labs
 
-FortiGate firewall configuration, security hardening, VPN, VLAN and network security documentation.
+FortiGate firewall configuration and security hardening labs.
 
-## Topics
+## Labs Included
 
-- Firewall Policies
-- VLAN Segmentation
-- SSL VPN
-- IPS / IDS
+### Initial Deployment
+- Basic setup
+- Interface configuration
+- Firmware management
+
+### VLAN Segmentation
+- Staff VLAN
+- Guest VLAN
+- Printer VLAN
+
+### SSL VPN
+- Remote access setup
+- MFA integration
+- Security validation
+
+### Security Profiles
+- IPS
 - Web Filtering
 - Application Control
-- Backup Procedures
+- Antivirus
+
+## Technologies
+- FortiGate 60F
+- FortiOS
+- VPN
+- VLAN
+- Network Security
