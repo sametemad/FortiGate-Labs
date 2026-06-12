@@ -1,30 +1,76 @@
-# Microsoft 365 Security Baseline
+# FortiGate Labs
 
-Microsoft 365 security hardening and administration notes.
+FortiGate firewall administration, security hardening, VPN deployment, VLAN segmentation and network security documentation.
 
-## Security Controls
+## Overview
 
-### Identity Protection
-- MFA enforcement
+This repository contains FortiGate configuration labs and security implementation examples based on real-world firewall administration and network security practices.
+
+## Topics Covered
+
+### Initial Deployment
+- FortiGate setup
+- Interface configuration
+- Firmware management
+- Configuration backup
+
+### Network Segmentation
+- VLAN design
+- Staff network
+- Guest network
+- Printer network
+- Security isolation
+
+### VPN Configuration
+- SSL VPN
+- Remote access
+- User authentication
+- MFA integration
+
+### Security Hardening
+- Administrative security
 - Password policies
-- Account review
+- HTTPS management
+- Access restrictions
 
-### Exchange Online
-- Anti-spam
-- Anti-phishing
-- Mail flow review
+### Security Profiles
+- Intrusion Prevention System (IPS)
+- Web Filtering
+- Application Control
+- Antivirus Protection
 
-### SharePoint Online
-- Sharing controls
-- Access management
+### Monitoring and Logging
+- Event monitoring
+- Security logs
+- Traffic analysis
+- System health monitoring
 
-### Microsoft Entra ID
-- Conditional Access
-- Security defaults
-- Administrative roles
+## Lab Files
+
+### Lab-01-Initial-Setup.md
+Initial deployment and configuration of a FortiGate firewall.
+
+### Lab-02-VLAN-Segmentation.md
+Network segmentation and VLAN implementation.
+
+### Lab-03-SSL-VPN.md
+Secure remote access deployment using SSL VPN.
 
 ## Technologies
-- Microsoft 365
-- Entra ID
-- Exchange Online
-- SharePoint Online
+
+- FortiGate 60F
+- FortiOS
+- VLAN
+- SSL VPN
+- Network Security
+- Firewall Administration
+- Security Hardening
+
+## Skills Demonstrated
+
+- Firewall Administration
+- Network Security
+- Security Hardening
+- VPN Deployment
+- VLAN Segmentation
+- Infrastructure Management
