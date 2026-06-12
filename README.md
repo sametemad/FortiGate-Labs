@@ -1,33 +1,30 @@
-# FortiGate Labs
+# Microsoft 365 Security Baseline
 
-FortiGate firewall configuration and security hardening labs.
+Microsoft 365 security hardening and administration notes.
 
-## Labs Included
+## Security Controls
 
-### Initial Deployment
-- Basic setup
-- Interface configuration
-- Firmware management
+### Identity Protection
+- MFA enforcement
+- Password policies
+- Account review
 
-### VLAN Segmentation
-- Staff VLAN
-- Guest VLAN
-- Printer VLAN
+### Exchange Online
+- Anti-spam
+- Anti-phishing
+- Mail flow review
 
-### SSL VPN
-- Remote access setup
-- MFA integration
-- Security validation
+### SharePoint Online
+- Sharing controls
+- Access management
 
-### Security Profiles
-- IPS
-- Web Filtering
-- Application Control
-- Antivirus
+### Microsoft Entra ID
+- Conditional Access
+- Security defaults
+- Administrative roles
 
 ## Technologies
-- FortiGate 60F
-- FortiOS
-- VPN
-- VLAN
-- Network Security
+- Microsoft 365
+- Entra ID
+- Exchange Online
+- SharePoint Online
